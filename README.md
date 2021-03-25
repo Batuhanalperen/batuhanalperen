@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Batuhan</h1>
 <h3 align="center">A passionate frontend developer from Istanbul</h3>
 
-- 🔭 I’m currently working on [Datamole](https://datamole.com) 
+- 🔭 I’m currently working at [Datamole](https://datamole.com) 
 - 🌱 I’m currently learning **React** 
 - 💬 Ask me about **JavaScript, Vue, Vuex, Nuxt, Puppeteer**
 
