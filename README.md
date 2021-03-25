@@ -34,7 +34,7 @@
       width="40"
     />
   </a>
-  <a href="https://instagram.com/batuhanalperen" target="blank">
+  <a href="https://instagram.com/batuhan.alperen" target="blank">
     <img
       align="center"
       src="https://cdns.iconmonstr.com/wp-content/assets/preview/2016/240/iconmonstr-instagram-12.png"
