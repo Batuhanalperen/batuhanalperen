@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Batuhan</h1>
 <h3 align="center">A passionate frontend developer from Istanbul</h3>
 
-- 🔭 I’m currently working at [Datamole](https://datamole.com) 
+- 🔭 I’m currently working at [Datamole](https://datamole.com), [Ravertan](https://ravertan.com) and [StartupCentrum](https://startupcentrum.com).
 - 🌱 I’m currently learning **React** 
 - 💬 Ask me about **JavaScript, Vue, Vuex, Nuxt, Puppeteer**
 
@@ -81,7 +81,6 @@
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <img
     src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=batuhanalperen"
@@ -89,6 +88,8 @@
     width="300"
   />
 </p>
+
+<h3 align="left">Languages and Tools:</h3>
 <h5>Core</h5>
 <p align="left">
   <a href="https://git-scm.com/" target="_blank">
@@ -135,11 +136,11 @@
     />
   </a>
 </p>
-<h5>UI/UX / Design Tools</h5>
+<h5>Design Tools</h5>
 <p align="left">
   <a href="https://www.photoshop.com/en" target="_blank">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
+      src="https://raw.githubusercontent.com/rdimascio/icons/master/icons/color/photoshop.svg"
       alt="photoshop"
       width="40"
       height="40"
