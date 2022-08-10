@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Batuhan</h1>
 <h3 align="center">A passionate frontend developer from Istanbul</h3>
 
-- 🔭 I’m currently working at [Datamole](https://datamole.com).
+- 🔭 I’m currently working as Freelance Developer.
 - 🌱 I’m currently learning **React** 
 - 💬 Ask me about **JavaScript, Vue, Vuex, Nuxt, Puppeteer**
 
@@ -10,7 +10,7 @@
   <a href="https://twitter.com/batuhanalperen" target="blank">
     <img
       align="center"
-      src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-twitter-2.png"
+      src="https://cdns.iconmonstr.com/wp-content/releases/preview/2012/240/iconmonstr-twitter-2.png"
       alt="batuhanalperen"
       height="40"
       width="40"
@@ -19,7 +19,7 @@
   <a href="https://linkedin.com/in/batuhanalperen" target="blank">
     <img
       align="center"
-      src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-linkedin-2.png"
+      src="https://cdns.iconmonstr.com/wp-content/releases/preview/2012/240/iconmonstr-linkedin-2.png"
       alt="batuhanalperen"
       height="40"
       width="40"
@@ -28,7 +28,7 @@
   <a href="https://fb.com/batualprn" target="blank">
     <img
       align="center"
-      src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-facebook-2.png"
+      src="https://cdns.iconmonstr.com/wp-content/releases/preview/2012/240/iconmonstr-facebook-2.png"
       alt="batualprn"
       height="40"
       width="40"
@@ -37,7 +37,7 @@
   <a href="https://instagram.com/batuhan.alperen" target="blank">
     <img
       align="center"
-      src="https://cdns.iconmonstr.com/wp-content/assets/preview/2016/240/iconmonstr-instagram-12.png"
+      src="https://cdns.iconmonstr.com/wp-content/releases/preview/2016/240/iconmonstr-instagram-12.png"
       alt="batuhanalperen"
       height="40"
       width="40"
@@ -46,7 +46,7 @@
   <a href="https://dribbble.com/batualprn" target="blank">
     <img
       align="center"
-      src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-dribbble-2.png"
+      src="https://cdns.iconmonstr.com/wp-content/releases/preview/2012/240/iconmonstr-dribbble-2.png"
       alt="batualprn"
       height="40"
       width="40"
@@ -55,7 +55,7 @@
   <a href="https://www.behance.net/batuhanalperen" target="blank">
     <img
       align="center"
-      src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-behance-2.png"
+      src="https://cdns.iconmonstr.com/wp-content/releases/preview/2012/240/iconmonstr-behance-2.png"
       alt="batuhanalperen"
       height="40"
       width="40"
@@ -64,7 +64,7 @@
   <a href="https://medium.com/@batuhanalperen" target="blank">
     <img
       align="center"
-      src="https://cdns.iconmonstr.com/wp-content/assets/preview/2018/240/iconmonstr-medium-2.png"
+      src="https://cdns.iconmonstr.com/wp-content/releases/preview/2018/240/iconmonstr-medium-2.png"
       alt="@batuhanalperen"
       height="40"
       width="40"
@@ -73,7 +73,7 @@
   <a href="https://www.youtube.com/c/batuhanalperen" target="blank">
     <img
       align="center"
-      src="https://cdns.iconmonstr.com/wp-content/assets/preview/2013/240/iconmonstr-youtube-7.png"
+      src="https://cdns.iconmonstr.com/wp-content/releases/preview/2013/240/iconmonstr-youtube-7.png"
       alt="batuhanalperen"
       height="40"
       width="40"
