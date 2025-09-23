@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Batuhan</h1>
 <h3 align="center">A passionate frontend developer from Istanbul</h3>
 
-- 🔭 I’m currently working as Freelance Developer.
+- 🔭 I’m currently working as Frontend Developer at finsuretex.com
 - 🌱 I’m currently learning **React** 
 - 💬 Ask me about **JavaScript, Vue, Vuex, Nuxt, Puppeteer**
 
